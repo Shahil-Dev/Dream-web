@@ -239,3 +239,36 @@ header{
     text-decoration-line: underline;
     margin-top: 20px;
  }
+ .rosra{
+    width: 1200px;
+    height: 400px;
+    background-image: url('./image/handshake.jpg');
+    background-size: cover;
+    margin-left: 30px;
+    border-radius: 10px;
+ }
+
+.input-style {
+    margin-left: 300px;
+    margin-top: 50px;
+    width: 500px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #555;
+    outline: none;
+  }
+  
+  .input-style:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  #kun{
+     border-radius: 8px;
+     margin-top: 50px;
+    background: #ccc;
+    color: black;
+    width: 150px;
+    height: 50px;
+  }
